@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 440134484}
   - component: {fileID: 440134483}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Cat Walk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3188,7 +3188,7 @@ GameObject:
   - component: {fileID: 739103424}
   - component: {fileID: 739103423}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: Gutter 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4020,7 +4020,7 @@ GameObject:
   - component: {fileID: 965182847}
   - component: {fileID: 965182846}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: Divider 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4372,7 +4372,7 @@ GameObject:
   - component: {fileID: 979779011}
   - component: {fileID: 979779010}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Start Jump
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9764,7 +9764,7 @@ GameObject:
   - component: {fileID: 1033869706}
   - component: {fileID: 1033869705}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: Goal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11519,7 +11519,7 @@ GameObject:
   - component: {fileID: 1167646800}
   - component: {fileID: 1167646799}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Wall Jump
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13270,7 +13270,7 @@ GameObject:
   - component: {fileID: 1415431909}
   - component: {fileID: 1415431908}
   m_Layer: 0
-  m_Name: Cube (7)
+  m_Name: Divider 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14117,7 +14117,7 @@ GameObject:
   - component: {fileID: 1893472550}
   - component: {fileID: 1893472549}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: Gutter 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15835,7 +15835,7 @@ PrefabInstance:
     - target: {fileID: 622763330879593280, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
       propertyPath: ShotsToComplete
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4303680812698288562, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
