@@ -736,6 +736,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728479
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &440134487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3293,6 +3294,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728497
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &739103427
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4125,6 +4127,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728506
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &965182850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5437,6 +5440,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728453
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &979779014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10829,6 +10833,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728504
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &1033869709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12584,6 +12589,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728494
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &1167646803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14335,6 +14341,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728506
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &1415431912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15302,6 +15309,7 @@ MonoBehaviour:
     RefIds:
     - rid: 2911460021178728497
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &1893472553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16915,7 +16923,7 @@ PrefabInstance:
     - target: {fileID: 622763330879593280, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
       propertyPath: ShotsToComplete
-      value: 6
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4303680812698288562, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
